@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hola donkey in boots!!!!! Edit <code>src/App.js</code> and save to reload.
+          Hola donkey in boots!!!!! I was changed on the feature branch. Are you hanging on a tree as well?
         </p>
         <a
           className="App-link"
